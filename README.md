@@ -1,1 +1,1 @@
-https://manuel-pross.github.io/fundOfIoT_manuel_daniel/
+https://manuel-pross.github.io/fundOfIoT_manuel_daniel/index.html
