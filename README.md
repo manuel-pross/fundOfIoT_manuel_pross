@@ -18,9 +18,9 @@
 
 [Website Protoyp](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Konzept/wanderschild_website_gui.pdf)
 
-[Miro Bauplan](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Konzept/wanderschild_website_gui.pdf)
+[Miro Bauplan](https://miro.com/app/board/o9J_lI5YGDA=/)
 
-[Miro Bauplan PDF](wanderschild_miro_bauplan.pdf)
+[Miro Bauplan PDF](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Konzept/wanderschild_miro_bauplan.pdf)
 
 ### Index
 
