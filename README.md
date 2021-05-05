@@ -24,7 +24,7 @@
 
 ### Bauplaene
 
-#### Frontgrafik
+#### Frontgrafiken
 
 [Frontgrafik Flügel](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Bauplaene/EclecticElectrics_Frontgrafik_Fluegel.svg)
 
